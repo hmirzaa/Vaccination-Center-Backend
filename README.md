@@ -1,4 +1,5 @@
 # Vaccination-Center-Backend
+NodeJS based backend with MongoDB Database
 
 # Setup Instruction
 - Clone this repository
